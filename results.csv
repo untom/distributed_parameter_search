@@ -1,0 +1,5 @@
+id,parameters,result
+1,"{""max_features"": 14, ""n_estimators"": 20}",0.9424404761904762
+2,"{""max_features"": 14, ""n_estimators"": 50}",0.9566071428571429
+3,"{""max_features"": 28, ""n_estimators"": 20}",0.9497023809523809
+4,"{""max_features"": 28, ""n_estimators"": 50}",0.9560714285714286
